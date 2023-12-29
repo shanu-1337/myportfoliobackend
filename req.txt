@@ -1,0 +1,26 @@
+npm i 
+express
+dotenv cors moment mongoose validator multer
+
+///change font awsome url
+
+
+cluster=>
+create database
+db name (My db)
+
+create collection=>
+name user
+
+How to connect?
+click on connect
+connect your application 
+
+copy the link
+
+Allow from all network
+
+Security-> Network Access
+if there 0.0.0.0 not available
+click on edit
+accesss from anywhere
